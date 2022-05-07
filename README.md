@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaniloDrT
-- 👀 I’m interested in ... Dev SW
+- 👀 I’m interested in ... Dev SW Jr
 - 🌱 I’m currently learning ... Javascript, HTML 5, CSS
-- 💞️ I’m looking to collaborate on ... Dev Júnior
+- 💞️ I’m looking to collaborate on ... Dev  SW Jr
 - 📫 How to reach me ... https://www.linkedin.com/in/danilo-duarte-9b0b8721a/
 
 <!---
