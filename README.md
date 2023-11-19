@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaniloDrT
-- 👀 I’m interested in ... Dev Mobile
+- 👀 I’m interested in ... Dev Andrid Native
 - 🌱 I’m currently learning ... Java/Kotlin
 - 💞️ I’m looking to collaborate on ... Dev Android
 - 📫 How to reach me ... https://www.linkedin.com/in/danilo-duarte-9b0b8721a/
